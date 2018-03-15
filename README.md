@@ -7,7 +7,8 @@
 下面是具体的使用步骤：
 ## demo.sh
 1.找个地方新建文件，后缀随意，一般来说脚本的后缀是 .sh。我喜欢把脚本放在 ~/local 目录里。
-```mkdir ~/local
+```
+   mkdir ~/local
    cd ~/local
    touch demo.txt
 ```
