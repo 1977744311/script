@@ -1,0 +1,20 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "1. demo.sh是一个可以快速创建一个基本的网页结构的脚本，是用shell语言编写。 2. demo.js是用node语言编写的与demo.sh实现同样的功能。 3. gpo是我自己编写的可以快速git到远程仓库的脚本。 4. z.sh脚本是一个可以快速跳转到指定目录的脚本。",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1977744311/script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1977744311/script/issues"
+  },
+  "homepage": "https://github.com/1977744311/script#readme",
+  "keywords": []
+}
